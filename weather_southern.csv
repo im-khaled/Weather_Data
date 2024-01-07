@@ -1,0 +1,366 @@
+City citipy;Country code citipy;Country;City ID;City;Country Abbreviation;Longitude;Latitude;Temperature;Humidity;Wind;Clouds
+Bom jesus;BR;Brazil;3405304;Bom Jesus;BR;-44.36;-9.08;28.9;69;2.32;68
+Victoria;SC;Seychelles;241131;Victoria;SC;55.45;-4.62;26.0;83;3.1;40
+Kupang;ID;Indonesia;2057087;Kupang;ID;123.6;-10.16;27.22;99;2.27;76
+Jamestown;SH;Saint helena, ascension and tristan da cunha;3370903;Jamestown;SH;-5.72;-15.94;22.15;100;5.02;100
+Iuna;BR;Brazil;3445764;Iuna;BR;-46.91;-16.38;30.0;49;2.67;76
+Lamu;KE;Kenya;189741;Lamu;KE;40.9;-2.27;26.4;98;7.27;75
+Mackay;AU;Australia;2159220;Mackay;AU;149.2;-21.15;25.0;94;5.7;100
+Pisco;PE;Peru;3932145;Pisco;PE;-76.2;-13.71;22.0;30;3.1;90
+Portland;AU;Australia;2152668;Portland;AU;149.98;-33.35;17.0;98;1.02;76
+Coihaique;CL;Chile;3894426;Coihaique;CL;-72.07;-45.58;15.31;40;5.1;75
+Kasungu;MW;Malawi;928534;Kasungu;MW;33.48;-13.04;22.75;84;2.37;0
+Vilhena;BR;Brazil;3924679;Vilhena;BR;-60.15;-12.74;26.97;71;1.42;48
+Sola;VU;Vanuatu;2134814;Sola;VU;167.55;-13.88;26.5;100;2.52;0
+Rawson;AR;Argentina;3839307;Rawson;AR;-65.11;-43.3;22.42;40;4.57;0
+Puerto ayora;EC;Ecuador;3652764;Puerto Ayora;EC;-90.35;-0.74;29.0;58;4.6;0
+Faanui;PF;French polynesia;4034551;Faanui;PF;-151.75;-16.48;28.9;100;7.77;76
+Maningrida;AU;Australia;2067089;Maningrida;AU;134.23;-12.05;27.25;86;2.32;0
+Ranfurly;NZ;New zealand;2183774;Ranfurly;NZ;170.1;-45.13;9.72;81;0.77;88
+Broome;AU;Australia;2075720;Broome;AU;122.23;-17.97;29.0;70;4.6;40
+San alberto;PY;Paraguay;3437136;San Alberto;PY;-54.91;-24.98;23.0;94;4.1;90
+Crato;BR;Brazil;3401545;Crato;BR;-39.41;-7.24;32.0;43;2.6;20
+Itaituba;BR;Brazil;3397967;Itaituba;BR;-55.99;-4.26;26.0;88;1.0;75
+Mufumbwe;ZM;Zambia;905382;Mufumbwe;ZM;24.8;-13.68;23.42;87;1.67;48
+Barcelos;BR;Brazil;3665098;Barcelos;BR;-62.93;-0.97;27.97;82;2.37;88
+Mayumba;GA;Gabon;2399001;Mayumba;GA;10.65;-3.44;26.22;100;3.32;88
+Moba;CD;Congo (democratic republic of the);212962;Moba;CD;29.77;-7.04;21.02;100;1.67;8
+Whyalla;AU;Australia;2058430;Whyalla;AU;137.58;-33.04;15.0;77;2.6;0
+Amuntai;ID;Indonesia;1651461;Amuntai;ID;115.25;-2.42;22.37;100;0.87;88
+Sao sebastiao;BR;Brazil;3397893;Sao Sebastiao;BR;-58.36;-3.15;22.0;100;1.5;40
+Byron bay;AU;Australia;2172880;Byron Bay;AU;153.62;-28.65;19.0;100;3.32;92
+Dekar;BW;Botswana;933815;Dekar;BW;21.93;-21.53;31.12;30;1.47;68
+Lorengau;PG;Papua new guinea;2092164;Lorengau;PG;147.27;-2.02;28.42;100;3.47;0
+Orange;AU;Australia;2154219;Orange;AU;149.1;-33.28;19.15;96;4.12;0
+Dondo;MZ;Mozambique;1024696;Dondo;MZ;34.74;-19.62;29.0;83;5.02;75
+Hualmay;PE;Peru;3939761;Hualmay;PE;-77.61;-11.1;24.62;71;2.52;44
+Cidreira;BR;Brazil;3466165;Cidreira;BR;-50.22;-30.17;28.1;86;4.37;56
+Christchurch;NZ;New zealand;2192362;Christchurch;NZ;172.64;-43.53;16.0;93;4.1;8
+Sao jose da coroa grande;BR;Brazil;3388456;Sao Jose da Coroa Grande;BR;-35.15;-8.9;24.9;99;3.12;76
+Andradas;BR;Brazil;3472254;Andradas;BR;-46.57;-22.07;31.0;40;2.1;20
+Tevaitoa;PF;French polynesia;4033375;Tevaitoa;PF;-151.5;-16.78;28.17;100;6.27;92
+Mahebourg;MU;Mauritius;934322;Mahebourg;MU;57.7;-20.41;28.0;83;5.1;40
+Necochea;AR;Argentina;3430443;Necochea;AR;-58.74;-38.55;14.47;95;3.87;92
+Kununurra;AU;Australia;2068110;Kununurra;AU;128.74;-15.77;26.0;94;3.42;24
+Bambous virieux;MU;Mauritius;1106677;Bambous Virieux;MU;57.76;-20.34;28.0;83;5.1;40
+New norfolk;AU;Australia;2155415;New Norfolk;AU;147.06;-42.78;15.0;72;2.1;75
+Lujan;AR;Argentina;3863379;Lujan;AR;-67.67;-46.57;22.25;14;8.27;0
+Ancud;CL;Chile;3899695;Ancud;CL;-73.83;-41.87;16.0;55;4.1;0
+Puerto leguizamo;CO;Colombia;3671437;Puerto Leguizamo;CO;-74.78;-0.19;28.15;81;1.47;44
+Atuona;PF;French polynesia;4020109;Atuona;PF;-139.03;-9.8;27.47;99;8.42;68
+Bluff;NZ;New zealand;2206939;Bluff;NZ;168.33;-46.6;13.32;100;10.77;64
+Gisborne;NZ;New zealand;2206854;Gisborne;NZ;178.02;-38.66;18.97;66;4.02;0
+Kruisfontein;ZA;South africa;986717;Kruisfontein;ZA;24.73;-34.0;19.32;84;5.02;32
+Ushuaia;AR;Argentina;3833367;Ushuaia;AR;-68.31;-54.81;15.09;54;3.6;75
+Vilhena;BR;Brazil;3924679;Vilhena;BR;-60.15;-12.74;26.97;71;1.42;48
+Rumphi;MW;Malawi;924102;Rumphi;MW;33.86;-11.02;18.62;97;0.72;8
+Natal;BR;Brazil;3394023;Natal;BR;-35.21;-5.81;30.0;58;9.8;40
+Emerald;AU;Australia;2167426;Emerald;AU;148.16;-23.53;23.0;83;3.6;24
+Rumphi;MW;Malawi;924102;Rumphi;MW;33.86;-11.02;18.62;97;0.72;8
+Roebourne;AU;Australia;2062276;Roebourne;AU;117.15;-20.77;31.22;14;6.07;0
+Nhulunbuy;AU;Australia;2064735;Nhulunbuy;AU;136.78;-12.18;28.0;88;3.6;40
+Bom jesus da lapa;BR;Brazil;3469437;Bom Jesus da Lapa;BR;-43.41;-13.25;30.0;59;1.62;88
+Soyo;AO;Angola;2236967;Soyo;AO;12.37;-6.13;26.65;85;2.47;8
+Tual;ID;Indonesia;1623197;Tual;ID;132.75;-5.67;27.17;100;4.17;12
+Tual;ID;Indonesia;1623197;Tual;ID;132.75;-5.67;27.17;100;4.17;12
+Rio branco;BR;Brazil;3662574;Rio Branco;BR;-67.82;-9.98;30.0;62;4.6;40
+Salinopolis;BR;Brazil;3389822;Salinopolis;BR;-47.36;-0.61;24.47;100;3.42;88
+Ulundi;ZA;South africa;946257;Ulundi;ZA;31.43;-28.29;23.97;58;0.72;0
+Noumea;NC;New caledonia;2139521;Noumea;NC;166.46;-22.28;22.0;94;1.5;90
+Mwene-ditu;CD;Congo (democratic republic of the);207570;Mwene-Ditu;CD;23.45;-7.01;23.82;86;1.37;24
+Ibotirama;BR;Brazil;3461525;Ibotirama;BR;-43.22;-12.18;32.22;40;3.02;76
+Werda;BW;Botswana;932960;Werda;BW;23.28;-25.27;30.0;19;3.87;0
+Parakai;NZ;New zealand;2184927;Parakai;NZ;174.44;-36.66;21.0;88;1.5;48
+Moindou;NC;New caledonia;2140466;Moindou;NC;165.68;-21.69;22.0;94;1.5;90
+Flinders;AU;Australia;6255012;Flinders;AU;150.85;-34.58;18.0;100;1.5;90
+Chuy;UY;Uruguay;3443061;Chuy;UY;-53.46;-33.69;22.87;100;2.77;48
+Talcahuano;CL;Chile;3870282;Talcahuano;CL;-73.12;-36.72;21.0;40;7.2;0
+Zvishavane;ZW;Zimbabwe;878549;Zvishavane;ZW;30.05;-20.32;20.07;98;1.22;56
+Mareeba;AU;Australia;2158767;Mareeba;AU;145.42;-16.99;26.0;88;4.6;90
+Cuamba;MZ;Mozambique;1047660;Cuamba;MZ;36.54;-14.8;23.9;91;1.47;68
+Luwuk;ID;Indonesia;1637001;Luwuk;ID;122.79;-0.95;24.92;100;1.22;44
+Santa elena;EC;Ecuador;3651438;Santa Elena;EC;-80.86;-2.23;27.0;78;4.1;75
+Kualakapuas;ID;Indonesia;1639304;Kualakapuas;ID;114.39;-3.01;22.92;100;1.47;92
+Natal;BR;Brazil;3394023;Natal;BR;-35.21;-5.81;30.0;;9.8;40
+Emerald;AU;Australia;2167426;Emerald;AU;148.16;-23.53;23.0;83;;24
+Rumphi;MW;Malawi;924102;Rumphi;MW;33.86;;18.62;97;0.72;8
+Roebourne;AU;Australia;2062276;Roebourne;AU;117.15;;31.22;14;6.07;0
+Nhulunbuy;AU;Australia;2064735;Nhulunbuy;AU;136.78;-12.18;28.0;;3.6;40
+Palora;EC;Ecuador;3653523;Palora;EC;-77.97;-1.7;23.68;73;2.1;75
+Saldanha;ZA;South africa;3361934;Saldanha;ZA;17.94;-33.01;20.0;68;3.1;8
+Bima;ID;Indonesia;1648759;Bima;ID;118.73;-8.45;25.5;96;1.07;76
+Viedma;AR;Argentina;3832899;Viedma;AR;-62.99;-40.81;17.27;85;3.32;0
+Abancay;PE;Peru;3948642;Abancay;PE;-72.88;-13.64;3.0;100;6.2;75
+Tuatapere;NZ;New zealand;2180815;Tuatapere;NZ;167.69;-46.13;11.4;100;7.47;64
+Busselton;AU;Australia;2075265;Busselton;AU;115.35;-33.64;18.07;100;5.82;12
+Bourail;NC;New caledonia;2141714;Bourail;NC;165.5;-21.57;21.1;99;1.62;64
+Longido;TZ;Tanzania, united republic of;155848;Longido;TZ;36.7;-2.73;22.65;52;5.27;64
+Kalemie;CD;Congo (democratic republic of the);214974;Kalemie;CD;29.2;-5.95;24.15;100;0.52;24
+Lakatoro;VU;Vanuatu;2136697;Lakatoro;VU;167.42;-16.11;25.02;100;3.02;36
+Poum;NC;New caledonia;2138555;Poum;NC;164.02;-20.23;26.5;99;4.67;24
+Kandrian;PG;Papua new guinea;2094746;Kandrian;PG;149.55;-6.21;23.92;99;1.07;0
+Roebourne;AU;Australia;2062276;Roebourne;AU;117.15;-20.77;31.22;14;6.07;0
+General roca;AR;Argentina;3855065;General Roca;AR;-67.58;-39.03;22.0;17;4.1;0
+Palembang;ID;Indonesia;1633070;Palembang;ID;104.76;-2.99;23.97;94;1.22;0
+Pimentel;PE;Peru;3693584;Pimentel;PE;-79.94;-6.84;30.0;55;5.7;20
+East london;ZA;South africa;1006984;East London;ZA;27.91;-33.02;21.0;77;5.1;20
+Richards bay;ZA;South africa;962367;Richards Bay;ZA;32.06;-28.77;26.22;76;6.57;0
+Djambala;CG;Congo;2260401;Djambala;CG;14.76;-2.55;23.4;92;1.52;12
+Canutama;BR;Brazil;3664716;Canutama;BR;-64.38;-6.53;25.97;87;1.42;92
+Mazagao;BR;Brazil;3395042;Mazagao;BR;-51.29;-0.12;27.0;100;5.1;75
+Antofagasta;CL;Chile;3899539;Antofagasta;CL;-70.4;-23.65;22.0;53;6.2;20
+Rantepao;ID;Indonesia;1629974;Rantepao;ID;119.9;-2.97;20.47;100;0.67;68
+Maxixe;MZ;Mozambique;1039536;Maxixe;MZ;35.35;-23.86;29.0;83;4.1;20
+Itarema;BR;Brazil;3393692;Itarema;BR;-39.92;-2.92;27.57;80;3.77;92
+Kasane;BW;Botswana;933677;Kasane;BW;25.16;-17.8;24.0;88;1.5;40
+Castro;CL;Chile;3896218;Castro;CL;-73.76;-42.48;16.0;55;4.1;0
+Corrente;BR;Brazil;3445459;Corrente;BR;-44.68;-17.45;26.47;67;1.97;12
+Padang;ID;Indonesia;1633419;Padang;ID;100.36;-0.92;26.87;100;0.17;80
+Orange;AU;Australia;2154219;Orange;AU;149.1;-33.28;19.15;96;4.12;0
+Yulara;AU;Australia;6355222;Yulara;AU;130.99;-25.24;27.0;12;4.1;0
+Biharamulo;TZ;Tanzania, united republic of;161154;Biharamulo;TZ;31.31;-2.64;21.15;67;2.42;0
+Port lincoln;AU;Australia;2063036;Port Lincoln;AU;135.86;-34.72;17.87;97;4.67;0
+Balikpapan;ID;Indonesia;1650527;Balikpapan;ID;116.86;-1.24;27.15;100;2.42;48
+Huarmey;PE;Peru;3939168;Huarmey;PE;-78.15;-10.07;21.6;81;1.62;92
+Lebu;CL;Chile;3883457;Lebu;CL;-73.65;-37.62;14.97;86;8.97;0
+Cuamba;MZ;Mozambique;1047660;Cuamba;MZ;36.54;-14.8;23.9;91;1.47;68
+Waitati;NZ;New zealand;2179825;Waitati;NZ;170.57;-45.75;9.62;100;2.22;92
+San vicente;AR;Argentina;3428067;San Vicente;AR;-58.42;-35.02;22.0;68;5.1;75
+Albany;AU;Australia;2077963;Albany;AU;117.88;-35.02;14.0;87;3.1;40
+Atambua;ID;Indonesia;1651103;Atambua;ID;124.89;-9.11;26.1;100;1.32;8
+Aitape;PG;Papua new guinea;2101169;Aitape;PG;142.36;-3.15;26.82;97;3.42;68
+Puerto madryn;AR;Argentina;3840092;Puerto Madryn;AR;-65.04;-42.77;19.62;65;1.42;0
+Kavieng;PG;Papua new guinea;2094342;Kavieng;PG;150.8;-2.57;28.97;100;3.67;0
+George;ZA;South africa;1002145;George;ZA;22.46;-33.96;20.0;72;1.0;80
+Maningrida;AU;Australia;2067089;Maningrida;AU;134.23;-12.05;27.25;86;2.32;0
+Chimbote;PE;Peru;3698304;Chimbote;PE;-78.59;-9.08;22.52;91;2.02;64
+Salvador;BR;Brazil;3450554;Salvador;BR;-38.48;-12.98;30.0;70;5.1;40
+Carnarvon;AU;Australia;2074865;Carnarvon;AU;113.63;-24.87;23.0;78;8.7;0
+Sao joao da barra;BR;Brazil;3448903;Sao Joao da Barra;BR;-41.05;-21.64;30.0;58;9.3;0
+Jose bonifacio;BR;Brazil;3459667;Jose Bonifacio;BR;-49.69;-21.05;33.0;24;4.6;20
+Duartina;BR;Brazil;3464422;Duartina;BR;-49.41;-22.41;31.37;41;3.6;40
+Kieta;PG;Papua new guinea;2094027;Kieta;PG;155.63;-6.22;24.82;100;2.22;8
+Diego de almagro;CL;Chile;3892454;Diego de Almagro;CL;-70.05;-26.39;24.65;47;2.57;0
+Hermanus;ZA;South africa;3366880;Hermanus;ZA;19.24;-34.42;18.75;60;3.27;0
+Kendari;ID;Indonesia;1640344;Kendari;ID;122.52;-3.99;23.85;95;1.22;76
+Labuhan;ID;Indonesia;1641899;Labuhan;ID;115.51;-2.54;23.1;94;1.07;68
+Inhambane;MZ;Mozambique;1045114;Inhambane;MZ;35.38;-23.87;29.0;83;4.1;20
+Vanimo;PG;Papua new guinea;2084442;Vanimo;PG;141.3;-2.67;28.42;99;5.67;8
+Banjar;ID;Indonesia;1650233;Banjar;ID;108.54;-7.37;21.67;98;0.87;56
+Sao felix do xingu;BR;Brazil;3388847;Sao Felix do Xingu;BR;-51.99;-6.64;24.42;94;1.22;80
+Mar del plata;AR;Argentina;3863379;Mar del Plata;AR;-67.52;-46.43;21.35;29;8.37;0
+San cristobal;EC;Ecuador;3652567;San Cristobal;EC;-79.44;-1.02;17.42;100;1.52;92
+Port macquarie;AU;Australia;2152659;Port Macquarie;AU;152.91;-31.43;20.0;100;1.5;92
+Innisfail;AU;Australia;2162683;Innisfail;AU;146.03;-17.52;22.62;96;0.67;92
+Nabire;ID;Indonesia;1634614;Nabire;ID;135.5;-3.36;19.07;88;0.97;0
+Plettenberg bay;ZA;South africa;964712;Plettenberg Bay;ZA;23.37;-34.05;19.37;98;4.57;36
+Emerald;AU;Australia;2167426;Emerald;AU;148.16;-23.53;23.0;83;3.6;24
+Bom jesus;BR;Brazil;3405304;Bom Jesus;BR;-44.36;-9.08;28.9;69;2.32;68
+Georgetown;SH;Saint helena, ascension and tristan da cunha;2411397;Georgetown;SH;-14.42;-7.93;26.12;100;5.02;80
+Huallanca;PE;Peru;3695465;Huallanca;PE;-76.94;-9.9;11.17;89;1.17;64
+Rocha;UY;Uruguay;3440777;Rocha;UY;-54.34;-34.48;22.6;78;5.07;92
+Barra do bugres;BR;Brazil;3470718;Barra do Bugres;BR;-57.19;-15.07;31.12;75;2.22;44
+Vaini;TO;Tonga;4032243;Vaini;TO;-175.2;-21.2;25.0;100;2.1;75
+Luanda;AO;Angola;2240449;Luanda;AO;13.24;-8.83;27.0;74;4.1;20
+Indramayu;ID;Indonesia;1624987;Indramayu;ID;103.78;-4.05;19.62;95;1.07;32
+Montepuez;MZ;Mozambique;1037125;Montepuez;MZ;39.0;-13.13;25.87;83;3.17;80
+Chuy;UY;Uruguay;3443061;Chuy;UY;-53.46;-33.69;22.87;100;2.77;48
+Pontianak;ID;Indonesia;1630789;Pontianak;ID;109.34;-0.02;25.85;98;1.62;76
+Touros;BR;Brazil;3386213;Touros;BR;-35.46;-5.2;30.0;66;8.2;75
+Esperance;AU;Australia;2071860;Esperance;AU;121.89;-33.86;17.0;77;6.2;75
+San vicente de canete;PE;Peru;3928993;San Vicente de Canete;PE;-76.38;-13.08;20.97;86;1.97;64
+San vicente;AR;Argentina;3428067;San Vicente;AR;-58.42;-35.02;22.0;68;5.1;75
+Souillac;MU;Mauritius;933995;Souillac;MU;57.52;-20.52;28.0;83;5.1;40
+Muana;BR;Brazil;3394326;Muana;BR;-49.22;-1.53;23.62;100;1.62;92
+Poum;NC;New caledonia;2138555;Poum;NC;164.02;-20.23;26.5;99;4.67;24
+Bredasdorp;ZA;South africa;1015776;Bredasdorp;ZA;20.04;-34.53;21.0;56;8.7;20
+Te anau;NZ;New zealand;2181625;Te Anau;NZ;167.72;-45.41;8.85;81;2.47;56
+Copiapo;CL;Chile;3893656;Copiapo;CL;-70.33;-27.37;22.0;56;4.1;40
+Wanaka;NZ;New zealand;2184707;Wanaka;NZ;169.14;-44.7;9.72;84;1.02;24
+Namibe;AO;Angola;3347019;Namibe;AO;12.15;-15.19;23.85;100;4.32;0
+Taltal;CL;Chile;3870243;Taltal;CL;-70.49;-25.41;20.6;67;2.12;0
+Hithadhoo;MV;Maldives;1282256;Hithadhoo;MV;73.08;-0.6;26.87;100;2.22;68
+Hokitika;NZ;New zealand;2206894;Hokitika;NZ;170.96;-42.72;14.62;100;4.37;0
+Iberia;PE;Peru;3938531;Iberia;PE;-69.49;-11.41;29.47;77;2.12;44
+Atlantis;ZA;South africa;3370352;Atlantis;ZA;18.5;-33.57;19.0;77;4.6;75
+Castro;CL;Chile;3896218;Castro;CL;-73.76;-42.48;16.0;55;4.1;0
+San ramon de la nueva oran;AR;Argentina;3836620;San Ramon de la Nueva Oran;AR;-64.33;-23.13;24.12;92;4.97;100
+Port keats;AU;Australia;2063039;Port Keats;AU;129.55;-14.25;28.07;96;4.52;48
+Gizo;SB;Solomon islands;2108857;Gizo;SB;156.84;-8.1;28.15;100;6.47;76
+Ahipara;NZ;New zealand;2194098;Ahipara;NZ;173.16;-35.17;17.65;100;1.62;76
+Volksrust;ZA;South africa;943032;Volksrust;ZA;29.88;-27.36;22.57;42;1.77;0
+Constitucion;CL;Chile;3893726;Constitucion;CL;-72.42;-35.33;16.6;80;5.02;56
+Paragominas;BR;Brazil;3393106;Paragominas;BR;-47.35;-3.0;23.12;98;2.92;92
+Kasane;BW;Botswana;933677;Kasane;BW;25.16;-17.8;24.0;88;1.5;40
+Sananduva;BR;Brazil;3450496;Sananduva;BR;-51.81;-27.95;24.57;91;4.12;76
+Hobart;AU;Australia;2163355;Hobart;AU;147.33;-42.88;15.0;72;2.1;75
+Westport;NZ;New zealand;2206900;Westport;NZ;171.6;-41.75;12.77;100;1.47;24
+Port keats;AU;Australia;2063039;Port Keats;AU;129.55;-14.25;28.07;96;4.52;48
+Sinazongwe;ZM;Zambia;897456;Sinazongwe;ZM;27.46;-17.26;25.27;88;3.22;88
+Yacuiba;BO;Bolivia (plurinational state of);3901178;Yacuiba;BO;-63.68;-22.04;19.0;100;4.6;90
+Busselton;AU;Australia;2075265;Busselton;AU;115.35;-33.64;18.07;100;5.82;12
+Deniliquin;AU;Australia;2169068;Deniliquin;AU;144.96;-35.53;14.65;69;1.52;44
+Praya;ID;Indonesia;1630662;Praya;ID;116.27;-8.71;25.0;100;1.42;36
+Ambilobe;MG;Madagascar;1082243;Ambilobe;MG;49.05;-13.19;22.57;97;1.42;92
+Geraldton;AU;Australia;2070998;Geraldton;AU;114.6;-28.77;18.0;72;5.1;90
+Karratha;AU;Australia;6620339;Karratha;AU;116.85;-20.74;31.22;14;6.07;0
+Punta arenas;CL;Chile;3874787;Punta Arenas;CL;-70.91;-53.16;12.0;71;7.7;75
+Pimentel;PE;Peru;3693584;Pimentel;PE;-79.94;-6.84;30.0;55;5.7;20
+Benguela;AO;Angola;3351663;Benguela;AO;13.4;-12.58;25.92;96;2.82;12
+Alice springs;AU;Australia;2077895;Alice Springs;AU;133.88;-23.7;24.0;23;3.37;0
+Villa maria;AR;Argentina;3832694;Villa Maria;AR;-63.24;-32.41;14.4;97;8.97;92
+Caucaia;BR;Brazil;3402429;Caucaia;BR;-38.66;-3.73;29.0;66;6.2;20
+Salinopolis;BR;Brazil;3389822;Salinopolis;BR;-47.36;-0.61;24.47;100;3.42;88
+Amahai;ID;Indonesia;1651591;Amahai;ID;129.0;-3.31;28.65;100;3.77;32
+Mitsamiouli;KM;Comoros;921786;Mitsamiouli;KM;43.28;-11.38;28.0;83;6.2;20
+Iguai;BR;Brazil;3461469;Iguai;BR;-40.09;-14.76;27.0;75;2.77;92
+Port alfred;ZA;South africa;964432;Port Alfred;ZA;26.89;-33.59;20.62;85;5.37;12
+Mount isa;AU;Australia;2065594;Mount Isa;AU;139.49;-20.73;31.0;43;4.1;12
+Lamu;KE;Kenya;189741;Lamu;KE;40.9;-2.27;26.4;98;7.27;75
+Port elizabeth;ZA;South africa;964420;Port Elizabeth;ZA;25.57;-33.92;21.0;73;4.6;20
+Porto belo;BR;Brazil;3452900;Porto Belo;BR;-48.54;-27.15;29.53;79;6.2;75
+Talara;PE;Peru;3691582;Talara;PE;-81.27;-4.58;17.0;100;3.1;40
+Olinda;BR;Brazil;3456160;Olinda;BR;-43.41;-22.82;35.13;41;5.7;20
+Lodja;CD;Congo (democratic republic of the);211647;Lodja;CD;23.6;-3.52;23.62;91;0.77;20
+Pocone;BR;Brazil;3453315;Pocone;BR;-56.62;-16.26;33.35;55;4.02;68
+Marica;BR;Brazil;3457708;Marica;BR;-42.82;-22.92;34.74;58;7.2;20
+Malanje;AO;Angola;2239862;Malanje;AO;16.35;-9.54;23.1;71;2.57;0
+Vallenar;CL;Chile;3868633;Vallenar;CL;-70.76;-28.58;21.82;68;1.37;0
+Pocone;BR;Brazil;3453315;Pocone;BR;-56.62;-16.26;33.35;55;4.02;68
+Lima;PE;Peru;3936456;Lima;PE;-77.04;-12.06;26.0;61;3.1;90
+Encantado;BR;Brazil;3464274;Encantado;BR;-51.88;-29.24;26.35;87;1.22;64
+Martapura;ID;Indonesia;1636022;Martapura;ID;114.85;-3.41;24.47;100;1.52;68
+Atherton;AU;Australia;2177541;Atherton;AU;145.48;-17.27;26.0;83;6.2;90
+Werda;BW;Botswana;932960;Werda;BW;23.28;-25.27;30.0;19;3.87;0
+Paita;PE;Peru;3694112;Paita;PE;-81.11;-5.09;17.0;100;3.1;40
+Salvador;BR;Brazil;3450554;Salvador;BR;-38.48;-12.98;30.0;70;5.1;40
+Kaeo;NZ;New zealand;2189343;Kaeo;NZ;173.78;-35.1;17.57;96;0.97;88
+Buala;SB;Solomon islands;2109528;Buala;SB;159.59;-8.15;27.22;95;2.67;76
+Buala;SB;Solomon islands;2109528;Buala;SB;159.59;-8.15;27.22;95;2.67;76
+Junin;PE;Peru;3947322;Junin;PE;-71.58;-16.45;16.57;28;2.02;0
+Caconda;AO;Angola;3351380;Caconda;AO;15.06;-13.73;26.15;35;1.22;92
+Chicama;PE;Peru;3698359;Chicama;PE;-79.15;-7.84;24.0;88;3.1;90
+Kabompo;ZM;Zambia;916246;Kabompo;ZM;24.21;-13.6;24.85;72;2.72;32
+Auki;SB;Solomon islands;2109701;Auki;SB;160.7;-8.77;26.72;100;2.42;32
+Kualakapuas;ID;Indonesia;1639304;Kualakapuas;ID;114.39;-3.01;22.92;100;1.47;92
+Pauini;BR;Brazil;3662927;Pauini;BR;-67.0;-7.71;26.37;86;1.77;92
+Marovoay;MG;Madagascar;1059507;Marovoay;MG;46.64;-16.11;27.0;83;1.0;20
+Moba;CD;Congo (democratic republic of the);212962;Moba;CD;29.77;-7.04;21.02;100;1.67;8
+Manggar;ID;Indonesia;1636426;Manggar;ID;108.27;-2.88;24.4;100;1.42;48
+Nabire;ID;Indonesia;1634614;Nabire;ID;135.5;-3.36;19.07;88;0.97;0
+Baturaja;ID;Indonesia;1649593;Baturaja;ID;104.17;-4.12;24.07;96;1.32;32
+Rio grande;BR;Brazil;3451138;Rio Grande;BR;-52.1;-32.03;28.0;65;5.7;40
+Vao;NC;New caledonia;2137773;Vao;NC;167.48;-22.67;24.4;100;8.42;92
+Margate;ZA;South africa;978895;Margate;ZA;30.37;-30.86;24.6;84;8.72;0
+Soyo;AO;Angola;2236967;Soyo;AO;12.37;-6.13;26.65;85;2.47;8
+Northam;AU;Australia;2064550;Northam;AU;116.67;-31.65;15.0;87;1.0;0
+Mahajanga;MG;Madagascar;1062663;Mahajanga;MG;46.32;-15.72;27.0;83;1.0;20
+Ambon;ID;Indonesia;1651531;Ambon;ID;128.18;-3.7;28.07;98;3.17;48
+Irara;BR;Brazil;3461022;Irara;BR;-38.77;-12.05;31.52;52;4.37;56
+Tramandai;BR;Brazil;3446232;Tramandai;BR;-50.13;-29.98;28.1;86;4.37;56
+Jan kempdorp;ZA;South africa;994023;Jan Kempdorp;ZA;24.84;-27.92;28.37;13;6.02;0
+Geraldton;AU;Australia;2070998;Geraldton;AU;114.6;-28.77;18.0;72;5.1;90
+Carnarvon;AU;Australia;2074865;Carnarvon;AU;113.63;-24.87;23.0;78;8.7;0
+Oeiras do para;BR;Brazil;3393762;Oeiras do Para;BR;-49.85;-2.0;23.27;100;2.12;92
+Rockhampton;AU;Australia;2151437;Rockhampton;AU;150.51;-23.38;23.0;88;3.1;92
+Kaitangata;NZ;New zealand;2208248;Kaitangata;NZ;169.85;-46.28;10.77;85;7.92;8
+Warrnambool;AU;Australia;2144528;Warrnambool;AU;142.48;-38.38;14.27;100;5.07;0
+Tolaga bay;NZ;New zealand;2180991;Tolaga Bay;NZ;178.3;-38.37;18.97;66;4.02;0
+Mmathubudukwane;BW;Botswana;933347;Mmathubudukwane;BW;26.43;-24.61;24.0;69;5.1;40
+Luwuk;ID;Indonesia;1637001;Luwuk;ID;122.79;-0.95;24.92;100;1.22;44
+Arinos;BR;Brazil;3471522;Arinos;BR;-46.11;-15.92;28.52;63;2.92;68
+Albany;AU;Australia;2077963;Albany;AU;117.88;-35.02;14.0;87;3.1;40
+Vila velha;BR;Brazil;6320062;Vila Velha;BR;-38.6;-3.71;29.0;66;6.2;20
+Port augusta;AU;Australia;2063056;Port Augusta;AU;137.76;-32.49;15.0;77;2.6;0
+Comodoro rivadavia;AR;Argentina;3860443;Comodoro Rivadavia;AR;-67.48;-45.87;25.0;12;8.7;0
+Soanierana ivongo;MG;Madagascar;1056386;Soanierana Ivongo;MG;49.59;-16.92;27.32;95;4.02;88
+Hervey bay;AU;Australia;2146219;Hervey Bay;AU;152.85;-25.3;22.0;83;3.1;75
+Christchurch;NZ;New zealand;2192362;Christchurch;NZ;172.64;-43.53;16.0;93;4.1;8
+Altamira;BR;Brazil;3407882;Altamira;BR;-52.21;-3.2;28.0;83;1.0;75
+Lichinga;MZ;Mozambique;1043893;Lichinga;MZ;35.25;-13.3;20.0;100;1.0;90
+Prainha;BR;Brazil;3391287;Prainha;BR;-53.48;-1.8;25.0;92;1.57;92
+Kupang;ID;Indonesia;2057087;Kupang;ID;123.6;-10.16;27.22;99;2.27;76
+Dunedin;NZ;New zealand;2191562;Dunedin;NZ;170.5;-45.87;9.62;100;2.22;92
+Coromandel;NZ;New zealand;2192093;Coromandel;NZ;175.5;-36.76;21.0;88;1.5;12
+Hermanus;ZA;South africa;3366880;Hermanus;ZA;19.24;-34.42;18.75;60;3.27;0
+Tarabuco;BO;Bolivia (plurinational state of);3903391;Tarabuco;BO;-64.92;-19.18;17.15;92;1.47;64
+Kavieng;PG;Papua new guinea;2094342;Kavieng;PG;150.8;-2.57;28.97;100;3.67;0
+Voh;NC;New caledonia;2137748;Voh;NC;164.69;-20.95;24.4;100;6.92;0
+Chicama;PE;Peru;3698359;Chicama;PE;-79.15;-7.84;24.0;88;3.1;90
+Durazno;UY;Uruguay;3442727;Durazno;UY;-56.52;-33.38;20.82;99;4.27;92
+Diamantino;BR;Brazil;3464724;Diamantino;BR;-56.44;-14.4;29.4;74;2.12;68
+Moindou;NC;New caledonia;2140466;Moindou;NC;165.68;-21.69;22.0;94;1.5;90
+Mount gambier;AU;Australia;2156643;Mount Gambier;AU;140.78;-37.83;10.0;87;3.1;0
+Tambo;PE;Peru;3929403;Tambo;PE;-74.02;-12.95;14.02;75;0.77;80
+Imbituba;BR;Brazil;3461370;Imbituba;BR;-48.67;-28.24;30.0;70;7.2;40
+Baiao;BR;Brazil;3406844;Baiao;BR;-49.67;-2.79;23.85;100;1.32;92
+Rio branco;BR;Brazil;3662574;Rio Branco;BR;-67.82;-9.98;30.0;62;4.6;40
+Belmonte;BR;Brazil;3448454;Belmonte;BR;-53.58;-26.84;25.5;96;1.97;56
+Sechura;PE;Peru;3691954;Sechura;PE;-80.82;-5.56;25.65;77;2.07;12
+Porto walter;BR;Brazil;3662761;Porto Walter;BR;-72.74;-8.27;32.85;55;1.47;8
+Mar del plata;AR;Argentina;3863379;Mar del Plata;AR;-67.52;-46.43;21.35;29;8.37;0
+Cabedelo;BR;Brazil;3404558;Cabedelo;BR;-34.84;-6.97;30.0;58;7.2;20
+Kambove;CD;Congo (democratic republic of the);923058;Kambove;CD;26.6;-10.88;20.77;81;1.62;12
+Russell;NZ;New zealand;2188874;Russell;NZ;174.12;-35.26;17.57;96;0.97;88
+Viedma;AR;Argentina;3832899;Viedma;AR;-62.99;-40.81;17.27;85;3.32;0
+Oriximina;BR;Brazil;3393471;Oriximina;BR;-55.87;-1.77;25.4;92;1.52;92
+Arraial do cabo;BR;Brazil;3471451;Arraial do Cabo;BR;-42.02;-22.97;30.56;65;10.3;0
+Barao de melgaco;BR;Brazil;3470871;Barao de Melgaco;BR;-55.97;-16.19;28.0;61;2.6;75
+Bima;ID;Indonesia;1648759;Bima;ID;118.73;-8.45;25.5;96;1.07;76
+Kalakamati;BW;Botswana;933390;Kalakamati;BW;27.31;-20.59;25.0;73;1.0;40
+Coquimbo;CL;Chile;3893629;Coquimbo;CL;-71.34;-29.95;20.0;60;6.7;20
+Cape town;ZA;South africa;3369157;Cape Town;ZA;18.42;-33.93;19.0;77;4.6;75
+Acari;PE;Peru;3948613;Acari;PE;-74.62;-15.44;22.25;67;1.67;12
+Kerema;PG;Papua new guinea;2094144;Kerema;PG;145.78;-7.96;21.22;100;1.32;76
+Mayor pablo lagerenza;PY;Paraguay;3867427;Mayor Pablo Lagerenza;PY;-60.77;-19.93;37.35;37;9.37;0
+Mackay;AU;Australia;2159220;Mackay;AU;149.2;-21.15;25.0;94;5.7;100
+Bambous virieux;MU;Mauritius;1106677;Bambous Virieux;MU;57.76;-20.34;28.0;83;5.1;40
+Denpasar;ID;Indonesia;1645528;Denpasar;ID;115.22;-8.65;28.0;88;2.6;40
+Jutai;BR;Brazil;3388869;Jutai;BR;-47.89;-1.71;24.87;96;1.37;92
+Namatanai;PG;Papua new guinea;2090021;Namatanai;PG;152.44;-3.66;28.52;100;4.62;0
+Taltal;CL;Chile;3870243;Taltal;CL;-70.49;-25.41;20.6;67;2.12;0
+Auki;SB;Solomon islands;2109701;Auki;SB;160.7;-8.77;26.72;100;2.42;32
+Port macquarie;AU;Australia;2152659;Port Macquarie;AU;152.91;-31.43;20.0;100;1.5;92
+Pindobacu;BR;Brazil;3453827;Pindobacu;BR;-40.36;-10.74;29.35;61;4.37;32
+Bindura;ZW;Zimbabwe;895061;Bindura;ZW;31.33;-17.3;18.17;96;1.12;64
+Santa rosa;AR;Argentina;3835994;Santa Rosa;AR;-64.29;-36.62;20.97;79;2.12;0
+Tarabuco;BO;Bolivia (plurinational state of);3903391;Tarabuco;BO;-64.92;-19.18;17.15;92;1.47;64
+Russell;NZ;New zealand;2188874;Russell;NZ;174.12;-35.26;17.57;96;0.97;88
+Santa elena;EC;Ecuador;3651438;Santa Elena;EC;-80.86;-2.23;27.0;78;4.1;75
+Isangel;VU;Vanuatu;2136825;Isangel;VU;169.27;-19.55;25.07;100;3.12;92
+Port elizabeth;ZA;South africa;964420;Port Elizabeth;ZA;25.57;-33.92;21.0;73;4.6;20
+Estrela;BR;Brazil;3459035;Estrela;BR;-51.96;-29.5;28.47;69;2.07;80
+San antonio;CL;Chile;3872395;San Antonio;CL;-71.61;-33.58;21.77;63;6.2;0
+Carutapera;BR;Brazil;3402648;Carutapera;BR;-46.02;-1.2;22.77;100;3.47;88
+Otane;NZ;New zealand;2185329;Otane;NZ;176.62;-39.89;14.97;87;1.82;8
+Rikitea;PF;French polynesia;4030556;Rikitea;PF;-134.97;-23.12;26.62;97;6.72;44
+Broken hill;AU;Australia;2173911;Broken Hill;AU;141.45;-31.97;23.0;18;7.7;0
+Quatre cocos;MU;Mauritius;1106643;Quatre Cocos;MU;57.76;-20.21;28.0;83;5.1;40
+San cristobal;EC;Ecuador;3652567;San Cristobal;EC;-79.44;-1.02;17.42;100;1.52;92
+Kimbe;PG;Papua new guinea;2093967;Kimbe;PG;150.15;-5.56;26.87;100;2.12;36
+Avarua;CK;Cook islands;4035715;Avarua;CK;-159.78;-21.21;26.0;69;8.2;40
+Kununurra;AU;Australia;2068110;Kununurra;AU;128.74;-15.77;26.0;94;3.42;24
+Sambava;MG;Madagascar;1056899;Sambava;MG;50.17;-14.27;27.65;100;2.12;88
+Comodoro rivadavia;AR;Argentina;3860443;Comodoro Rivadavia;AR;-67.48;-45.87;25.0;12;8.7;0
+Honiara;SB;Solomon islands;2108502;Honiara;SB;159.96;-9.43;23.0;100;1.17;48
+Jaguaruna;BR;Brazil;3460197;Jaguaruna;BR;-49.03;-28.62;29.62;83;3.97;64
+Beloha;MG;Madagascar;1067565;Beloha;MG;45.06;-25.17;23.07;98;3.67;100
+Gondanglegi;ID;Indonesia;1640660;Gondanglegi;ID;112.01;-7.75;22.25;100;1.32;92
+Kieta;PG;Papua new guinea;2094027;Kieta;PG;155.63;-6.22;24.82;100;2.22;8
+Abancay;PE;Peru;3948642;Abancay;PE;-72.88;-13.64;3.0;100;6.2;75
+Caravelas;BR;Brazil;3466980;Caravelas;BR;-39.27;-17.73;26.57;100;5.47;8
+Sorong;ID;Indonesia;1626542;Sorong;ID;131.25;-0.86;28.0;100;3.57;8
+Antsohihy;MG;Madagascar;1068971;Antsohihy;MG;47.99;-14.88;22.37;100;1.97;92
+Samarai;PG;Papua new guinea;2132606;Samarai;PG;150.67;-10.62;28.12;100;4.07;56
+Swellendam;ZA;South africa;950709;Swellendam;ZA;20.44;-34.02;21.0;56;8.7;0
+Belmonte;BR;Brazil;3448454;Belmonte;BR;-53.58;-26.84;25.5;96;1.97;56
+Batemans bay;AU;Australia;2176639;Batemans Bay;AU;150.18;-35.71;17.57;100;0.47;92
+Padang;ID;Indonesia;1633419;Padang;ID;100.36;-0.92;26.87;100;0.17;80
+Saint-philippe;RE;Réunion;935215;Saint-Philippe;RE;55.77;-21.36;27.0;74;2.1;0
+Hobart;AU;Australia;2163355;Hobart;AU;147.33;-42.88;15.0;72;2.1;75
+Puerto varas;CL;Chile;3874930;Puerto Varas;CL;-72.98;-41.32;18.0;39;4.1;0
+Neiafu;TO;Tonga;4032420;Neiafu;TO;-173.98;-18.65;27.0;94;3.12;40
+Puerto leguizamo;CO;Colombia;3671437;Puerto Leguizamo;CO;-74.78;-0.19;28.15;81;1.47;44
+Saint-philippe;RE;Réunion;935215;Saint-Philippe;RE;55.77;-21.36;27.0;74;2.1;0
+Innisfail;AU;Australia;2162683;Innisfail;AU;146.03;-17.52;22.62;96;0.67;92
+Duartina;BR;Brazil;3464422;Duartina;BR;-49.41;-22.41;31.37;41;3.6;40
